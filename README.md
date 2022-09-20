@@ -1,9 +1,18 @@
 Olá sou Fladson Silva
-<div align="center">
-  <a href="https://github.com/JFladsonSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFladsonSilva&show_icons=true&theme=modernist&include_all_commits=true&count_private=true"/>
+
+  
+  
+  <div align="rigth">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFladsonSilva)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFladsonSilva&layout=compact&langs_count=7&theme=modernist"/>
-</div>
+  </div>
+  
+  <div align="rigth">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JFladsonSilva)](https://git.io/streak-stats)
+  
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
